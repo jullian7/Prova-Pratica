@@ -1,0 +1,28 @@
+container{
+    background-color: darkorchid;
+    width: 900px;
+}
+.nav{
+    padding: 1px;
+    background-color: gainsboro;
+}
+.nav-link{
+    padding: 0.7rem;
+    text-decoration: none;
+    color: darkorchid;
+    font-style: oblique;
+}
+article{
+    padding: 0.7rem;
+    background-color: darkorchid;
+    color: white;
+}
+
+div{
+    background-color: darkorchid;
+}
+
+footer p{
+    text-align: start;
+    color: #46295a;
+}
